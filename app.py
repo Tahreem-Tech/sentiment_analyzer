@@ -4,7 +4,7 @@ import streamlit as st
 import cleantext
 import emoji
 
-st.title("Sentiment Web Analyzer")
+st.title("Social Media Sentiment Analysis Tool")
 background_image = 'image.jpg'
 st.image(background_image, use_column_width=True)
 
